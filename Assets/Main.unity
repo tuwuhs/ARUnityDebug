@@ -164,7 +164,7 @@ MonoBehaviour:
     e32: 0
     e33: 1
   currentContentMode: 1
-  currentThresholdMode: 0
+  currentThresholdMode: 2
   currentThreshold: 100
   currentLabelingMode: 1
   currentTemplateSize: 16
