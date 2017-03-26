@@ -1,4 +1,5 @@
 ﻿using UnityEngine;
+using UnityEngine.UI;
 using System.Collections;
 using System.Collections.Generic;
 
@@ -8,6 +9,11 @@ public class MarkerDebug : MonoBehaviour {
 	// Use this for initialization
 	void Start() 
     {
+        int width;
+        int height;
+        int pixelSize;
+        string pixelFormatString;
+
         // Only supports 3x3 marker
         for (int i = 0; i < 64; i++) {
             ARMarker m = gameObject.AddComponent<ARMarker>();
