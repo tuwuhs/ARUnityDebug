@@ -122,7 +122,7 @@ MonoBehaviour:
   AllowNonRGBVideo: 0
   QuitOnEscOrBack: 1
   AutoStartAR: 1
-  videoCParamName0: camera_para
+  videoCParamName0: camera_para-galaxytabs2
   videoConfigurationWindows0: -showDialog -flipV
   videoConfigurationMacOSX0: -width=640 -height=480
   videoConfigurationiOS0: 
